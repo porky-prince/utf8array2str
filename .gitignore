@@ -1,0 +1,40 @@
+# IDE
+.idea
+.vscode
+*.sublime-project
+*.sublime-workspace
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# OS
+.DS_Store
+Thumbs.db
+
+# local env files
+.env.local
+.env.*.local
+
+# Node
+node_modules
+
+# log
+logs
+*.log
+
+# npm-debug log
+npm-debug.*
+
+# Jest Coverage
+coverage
+
+# eslint
+.eslintcache
+
+# yeoman
+.yo-rc.json
+.yo-repository
+
+# custom

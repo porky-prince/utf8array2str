@@ -1,0 +1,24 @@
+{
+	"name": "utf8array2str",
+	"version": "1.0.0",
+	"description": "Uint8Array convert to string.",
+	"keywords": [
+		"Uint8Array",
+		"string"
+	],
+	"author": "PorkyKe",
+	"license": "MIT",
+	"main": "index.js",
+	"scripts": {
+		"test": "jest",
+		"build": "umd utf8Array2Str index1.js index.js"
+	},
+	"dependencies": {},
+	"devDependencies": {
+		"jest": "^27.3.1",
+		"umd": "^3.0.3"
+	},
+	"repository": "https://github.com/porky-prince/utf8array2str.git",
+	"homepage": "https://github.com/porky-prince/utf8array2str#readme",
+	"bugs": "https://github.com/porky-prince/utf8array2str/issues"
+}
